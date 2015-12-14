@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/macsimus/bin/android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/macsimus/src/markpragma/RW/TutorialTeam/AreWeThereYet/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-37ed94ab8a8355c11afd8c2210bef8c0f72c1fb5.jar" />
+    </item>
+    <item
+        jar="/Users/macsimus/Library/Mobile Documents/com~apple~CloudDocs/RW/TutorialTeam/AreWeThereYet/AreWeThereYet-Starter/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/macsimus/Library/Mobile Documents/com~apple~CloudDocs/RW/TutorialTeam/AreWeThereYet/AreWeThereYet-Starter/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-f85d54573737ce0eb7e00e7dc286a6b9cae51f9d.jar" />
+    </item>
+    <item
+        jar="/Users/macsimus/Library/Mobile Documents/com~apple~CloudDocs/RW/TutorialTeam/AreWeThereYet/AreWeThereYet-Starter/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="/Users/macsimus/Library/Mobile Documents/com~apple~CloudDocs/RW/TutorialTeam/AreWeThereYet/AreWeThereYet-Starter/app/build/intermediates/pre-dexed/debug/classes-db5e40e8c02da9899311e4dc77ac45f63e638d01.jar" />
+    </item>
+    <item
+        jar="/Users/macsimus/Library/Mobile Documents/com~apple~CloudDocs/RW/TutorialTeam/AreWeThereYet/AreWeThereYet-Starter/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4a568f733067f786d53e191ccf998e7ea3da68cc">
+        <dex dex="/Users/macsimus/Library/Mobile Documents/com~apple~CloudDocs/RW/TutorialTeam/AreWeThereYet/AreWeThereYet-Starter/app/build/intermediates/pre-dexed/debug/classes-a7fde1a2515718e9bb3dd9d1ec3a1c87f1f9ff60.jar" />
+    </item>
+    <item
+        jar="/Users/macsimus/src/markpragma/RW/TutorialTeam/AreWeThereYet-Starter/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4a568f733067f786d53e191ccf998e7ea3da68cc">
+        <dex dex="/Users/macsimus/src/markpragma/RW/TutorialTeam/AreWeThereYet-Starter/app/build/intermediates/pre-dexed/debug/classes-c6f31bfa71d69cf2918e604572709c84c81688dd.jar" />
+    </item>
+    <item
+        jar="/Users/macsimus/src/markpragma/RW/TutorialTeam/AreWeThereYet/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/Users/macsimus/src/markpragma/RW/TutorialTeam/AreWeThereYet/app/build/intermediates/pre-dexed/debug/classes-4cb09c24cb5c7b895d7c5d674af7b619d42ce2de.jar" />
+    </item>
+    <item
+        jar="/Users/macsimus/src/markpragma/RW/TutorialTeam/AreWeThereYet-Starter/app/build/intermediates/exploded-aar/com.github.shell-software/fab/1.0.5/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="21b7e1533326a38d45ea24d04c6acfcbf8ea33af">
+        <dex dex="/Users/macsimus/src/markpragma/RW/TutorialTeam/AreWeThereYet-Starter/app/build/intermediates/pre-dexed/debug/classes-d37a0df26ca6988ba275bc3f8cb5fe2396d4d463.jar" />
+    </item>
+    <item
+        jar="/Users/macsimus/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="/Users/macsimus/src/markpragma/RW/TutorialTeam/AreWeThereYet/app/build/intermediates/pre-dexed/debug/gson-2.3-5d2bad81be621caf1003280a5278cfc02615075b.jar" />
+    </item>
+    <item
+        jar="/Users/macsimus/Library/Mobile Documents/com~apple~CloudDocs/RW/TutorialTeam/AreWeThereYet/AreWeThereYet-Starter/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="95482e7c792a7c0d5a9d5461e97726bd54fe9549">
+        <dex dex="/Users/macsimus/Library/Mobile Documents/com~apple~CloudDocs/RW/TutorialTeam/AreWeThereYet/AreWeThereYet-Starter/app/build/intermediates/pre-dexed/debug/classes-d61f4e1b474d61330440f78c578c20a2146721ff.jar" />
+    </item>
+    <item
+        jar="/Users/macsimus/src/markpragma/RW/TutorialTeam/AreWeThereYet/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/Users/macsimus/src/markpragma/RW/TutorialTeam/AreWeThereYet/app/build/intermediates/pre-dexed/debug/classes-4cb09c24cb5c7b895d7c5d674af7b619d42ce2de.jar" />
+    </item>
+    <item
+        jar="/Users/macsimus/src/markpragma/RW/TutorialTeam/AreWeThereYet/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/macsimus/src/markpragma/RW/TutorialTeam/AreWeThereYet/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-b7399371e360de1ea8c94bfb94483e80a5e2cba6.jar" />
+    </item>
+    <item
+        jar="/Users/macsimus/src/markpragma/RW/TutorialTeam/AreWeThereYet/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/macsimus/src/markpragma/RW/TutorialTeam/AreWeThereYet/app/build/intermediates/pre-dexed/debug/classes-035886882800fc0748f5a07bee5951a426230259.jar" />
+    </item>
+    <item
+        jar="/Users/macsimus/src/markpragma/RW/TutorialTeam/AreWeThereYet-Starter/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/Users/macsimus/src/markpragma/RW/TutorialTeam/AreWeThereYet-Starter/app/build/intermediates/pre-dexed/debug/classes-57a31c44ed68c8b927747259574f775b00a9550f.jar" />
+    </item>
+    <item
+        jar="/Users/macsimus/Library/Mobile Documents/com~apple~CloudDocs/RW/TutorialTeam/AreWeThereYet/AreWeThereYet-Starter/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a75b29dc51b364df032af8bcfcad7e54ccfda28d">
+        <dex dex="/Users/macsimus/Library/Mobile Documents/com~apple~CloudDocs/RW/TutorialTeam/AreWeThereYet/AreWeThereYet-Starter/app/build/intermediates/pre-dexed/debug/classes-7d31c8c15a26ffcd146f6ed6c550f239f28013f9.jar" />
+    </item>
+    <item
+        jar="/Users/macsimus/Library/Mobile Documents/com~apple~CloudDocs/RW/TutorialTeam/AreWeThereYet/AreWeThereYet-Starter/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/Users/macsimus/Library/Mobile Documents/com~apple~CloudDocs/RW/TutorialTeam/AreWeThereYet/AreWeThereYet-Starter/app/build/intermediates/pre-dexed/debug/classes-45720ca074091bb7552d57b68a3c3ed66d82d187.jar" />
+    </item>
+    <item
+        jar="/Users/macsimus/src/markpragma/RW/TutorialTeam/AreWeThereYet-Starter/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="95482e7c792a7c0d5a9d5461e97726bd54fe9549">
+        <dex dex="/Users/macsimus/src/markpragma/RW/TutorialTeam/AreWeThereYet-Starter/app/build/intermediates/pre-dexed/debug/classes-b16091b9be133b70863e585626013018c2aaca36.jar" />
+    </item>
+    <item
+        jar="/Users/macsimus/Library/Mobile Documents/com~apple~CloudDocs/RW/TutorialTeam/AreWeThereYet/AreWeThereYet-Starter/app/build/intermediates/exploded-aar/com.github.shell-software/fab/1.0.5/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="21b7e1533326a38d45ea24d04c6acfcbf8ea33af">
+        <dex dex="/Users/macsimus/Library/Mobile Documents/com~apple~CloudDocs/RW/TutorialTeam/AreWeThereYet/AreWeThereYet-Starter/app/build/intermediates/pre-dexed/debug/classes-25e0f0291a7168b3fa3f442fd549c63ae5b1e47e.jar" />
+    </item>
+    <item
+        jar="/Users/macsimus/src/markpragma/RW/TutorialTeam/AreWeThereYet/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a75b29dc51b364df032af8bcfcad7e54ccfda28d">
+        <dex dex="/Users/macsimus/src/markpragma/RW/TutorialTeam/AreWeThereYet/app/build/intermediates/pre-dexed/debug/classes-8b76e1b5eafba62d5dde78697f87b41463c6230b.jar" />
+    </item>
+    <item
+        jar="/Users/macsimus/src/markpragma/RW/TutorialTeam/AreWeThereYet/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/macsimus/src/markpragma/RW/TutorialTeam/AreWeThereYet/app/build/intermediates/pre-dexed/debug/classes-035886882800fc0748f5a07bee5951a426230259.jar" />
+    </item>
+    <item
+        jar="/Users/macsimus/src/markpragma/RW/TutorialTeam/AreWeThereYet/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/macsimus/src/markpragma/RW/TutorialTeam/AreWeThereYet/app/build/intermediates/pre-dexed/debug/classes-6fedc0c5e45a256ba8facec17e0dcb572d6ba45c.jar" />
+    </item>
+    <item
+        jar="/Users/macsimus/src/markpragma/RW/TutorialTeam/AreWeThereYet/app/build/intermediates/exploded-aar/com.github.shell-software/fab/1.0.5/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="21b7e1533326a38d45ea24d04c6acfcbf8ea33af">
+        <dex dex="/Users/macsimus/src/markpragma/RW/TutorialTeam/AreWeThereYet/app/build/intermediates/pre-dexed/debug/classes-e75108b7ddc62f9c59153535c3de1efcd8075914.jar" />
+    </item>
+    <item
+        jar="/Users/macsimus/src/markpragma/RW/TutorialTeam/AreWeThereYet/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4a568f733067f786d53e191ccf998e7ea3da68cc">
+        <dex dex="/Users/macsimus/src/markpragma/RW/TutorialTeam/AreWeThereYet/app/build/intermediates/pre-dexed/debug/classes-d4387c3672a3f580268341788b35ad813a410974.jar" />
+    </item>
+    <item
+        jar="/Users/macsimus/src/markpragma/RW/TutorialTeam/AreWeThereYet-Starter/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/macsimus/src/markpragma/RW/TutorialTeam/AreWeThereYet-Starter/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-6ff54a354dd52442cd1650cb169505398dddb112.jar" />
+    </item>
+    <item
+        jar="/Users/macsimus/src/markpragma/RW/TutorialTeam/AreWeThereYet/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/macsimus/src/markpragma/RW/TutorialTeam/AreWeThereYet/app/build/intermediates/pre-dexed/debug/classes-6fedc0c5e45a256ba8facec17e0dcb572d6ba45c.jar" />
+    </item>
+    <item
+        jar="/Users/macsimus/src/markpragma/RW/TutorialTeam/AreWeThereYet/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="95482e7c792a7c0d5a9d5461e97726bd54fe9549">
+        <dex dex="/Users/macsimus/src/markpragma/RW/TutorialTeam/AreWeThereYet/app/build/intermediates/pre-dexed/debug/classes-3ded7ac8e4ad8a8866dd87412ce9db99c802ba9a.jar" />
+    </item>
+    <item
+        jar="/Users/macsimus/src/markpragma/RW/TutorialTeam/AreWeThereYet-Starter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/macsimus/src/markpragma/RW/TutorialTeam/AreWeThereYet-Starter/app/build/intermediates/pre-dexed/debug/classes-7398c7cff4179fe33f3e43f0c35e79466ed3b41c.jar" />
+    </item>
+    <item
+        jar="/Users/macsimus/src/markpragma/RW/TutorialTeam/AreWeThereYet/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="/Users/macsimus/src/markpragma/RW/TutorialTeam/AreWeThereYet/app/build/intermediates/pre-dexed/debug/classes-f5b5114f7b95fa13509079aeb896f2a8b7df4953.jar" />
+    </item>
+    <item
+        jar="/Users/macsimus/Library/Mobile Documents/com~apple~CloudDocs/RW/TutorialTeam/AreWeThereYet/AreWeThereYet-Starter/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/macsimus/Library/Mobile Documents/com~apple~CloudDocs/RW/TutorialTeam/AreWeThereYet/AreWeThereYet-Starter/app/build/intermediates/pre-dexed/debug/classes-1a213963ac094bf820e93bbfea725649d725dd42.jar" />
+    </item>
+    <item
+        jar="/Users/macsimus/src/markpragma/RW/TutorialTeam/AreWeThereYet-Starter/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="/Users/macsimus/src/markpragma/RW/TutorialTeam/AreWeThereYet-Starter/app/build/intermediates/pre-dexed/debug/classes-c38ae19c8928a5748f2868add72841fe36f599a6.jar" />
+    </item>
+    <item
+        jar="/Users/macsimus/src/markpragma/RW/TutorialTeam/AreWeThereYet-Starter/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a75b29dc51b364df032af8bcfcad7e54ccfda28d">
+        <dex dex="/Users/macsimus/src/markpragma/RW/TutorialTeam/AreWeThereYet-Starter/app/build/intermediates/pre-dexed/debug/classes-000ccb87d393fd83c581960750e035fbae334810.jar" />
+    </item>
+    <item
+        jar="/Users/macsimus/bin/android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/macsimus/src/markpragma/RW/TutorialTeam/AreWeThereYet/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-37ed94ab8a8355c11afd8c2210bef8c0f72c1fb5.jar" />
+    </item>
+    <item
+        jar="/Users/macsimus/src/markpragma/RW/TutorialTeam/AreWeThereYet/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/macsimus/src/markpragma/RW/TutorialTeam/AreWeThereYet/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-b7399371e360de1ea8c94bfb94483e80a5e2cba6.jar" />
+    </item>
+    <item
+        jar="/Users/macsimus/src/markpragma/RW/TutorialTeam/AreWeThereYet/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="/Users/macsimus/src/markpragma/RW/TutorialTeam/AreWeThereYet/app/build/intermediates/pre-dexed/debug/classes-f5b5114f7b95fa13509079aeb896f2a8b7df4953.jar" />
+    </item>
+    <item
+        jar="/Users/macsimus/src/markpragma/RW/TutorialTeam/AreWeThereYet/app/build/intermediates/exploded-aar/com.github.shell-software/fab/1.0.5/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="21b7e1533326a38d45ea24d04c6acfcbf8ea33af">
+        <dex dex="/Users/macsimus/src/markpragma/RW/TutorialTeam/AreWeThereYet/app/build/intermediates/pre-dexed/debug/classes-e75108b7ddc62f9c59153535c3de1efcd8075914.jar" />
+    </item>
+    <item
+        jar="/Users/macsimus/Library/Mobile Documents/com~apple~CloudDocs/RW/TutorialTeam/AreWeThereYet/AreWeThereYet-Starter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/macsimus/Library/Mobile Documents/com~apple~CloudDocs/RW/TutorialTeam/AreWeThereYet/AreWeThereYet-Starter/app/build/intermediates/pre-dexed/debug/classes-18c13a609a4db3b75876200b5d1ae534445c84b7.jar" />
+    </item>
+    <item
+        jar="/Users/macsimus/src/markpragma/RW/TutorialTeam/AreWeThereYet-Starter/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/macsimus/src/markpragma/RW/TutorialTeam/AreWeThereYet-Starter/app/build/intermediates/pre-dexed/debug/classes-acfb784b9e6fae7859d8aa6ef84369f491a872d6.jar" />
+    </item>
+
+</items>
